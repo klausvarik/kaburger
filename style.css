@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: white;
+  color: black;
+  padding-top: 1px;
+  min-height: 5px;
+  border-bottom: black 3px solid;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Boxes */
+#boxes {
+  margin-top: 100px;
+}
+#boxes .box {
+  float: left;
+  text-align: center;
+  width: 100%;
+  padding: 100x;
+}
+#boxes .box img {
+  width: 250px;
+}
